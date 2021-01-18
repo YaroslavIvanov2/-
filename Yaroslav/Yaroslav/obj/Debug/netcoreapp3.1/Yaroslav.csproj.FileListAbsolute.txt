@@ -1,0 +1,11 @@
+C:\Users\User\Desktop\Yaroslav\Yaroslav\bin\Debug\netcoreapp3.1\Yaroslav.exe
+C:\Users\User\Desktop\Yaroslav\Yaroslav\bin\Debug\netcoreapp3.1\Yaroslav.deps.json
+C:\Users\User\Desktop\Yaroslav\Yaroslav\bin\Debug\netcoreapp3.1\Yaroslav.runtimeconfig.json
+C:\Users\User\Desktop\Yaroslav\Yaroslav\bin\Debug\netcoreapp3.1\Yaroslav.runtimeconfig.dev.json
+C:\Users\User\Desktop\Yaroslav\Yaroslav\bin\Debug\netcoreapp3.1\Yaroslav.dll
+C:\Users\User\Desktop\Yaroslav\Yaroslav\bin\Debug\netcoreapp3.1\Yaroslav.pdb
+C:\Users\User\Desktop\Yaroslav\Yaroslav\obj\Debug\netcoreapp3.1\Yaroslav.csprojAssemblyReference.cache
+C:\Users\User\Desktop\Yaroslav\Yaroslav\obj\Debug\netcoreapp3.1\Yaroslav.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Yaroslav\Yaroslav\obj\Debug\netcoreapp3.1\Yaroslav.AssemblyInfo.cs
+C:\Users\User\Desktop\Yaroslav\Yaroslav\obj\Debug\netcoreapp3.1\Yaroslav.dll
+C:\Users\User\Desktop\Yaroslav\Yaroslav\obj\Debug\netcoreapp3.1\Yaroslav.pdb
